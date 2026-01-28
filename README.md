@@ -24,8 +24,15 @@ A professional and automated V2Ray configuration collector. This project automat
 | **Mix (All)** | [Raw](https://raw.githubusercontent.com/MahanKenway/v2ray-collector-pro/main/configs/mix.txt) | [Sub](https://raw.githubusercontent.com/MahanKenway/v2ray-collector-pro/main/configs/mix_sub.txt) |
 | **VLESS** | [Raw](https://raw.githubusercontent.com/MahanKenway/v2ray-collector-pro/main/configs/vless.txt) | [Sub](https://raw.githubusercontent.com/MahanKenway/v2ray-collector-pro/main/configs/vless_sub.txt) |
 | **VMESS** | [Raw](https://raw.githubusercontent.com/MahanKenway/v2ray-collector-pro/main/configs/vmess.txt) | [Sub](https://raw.githubusercontent.com/MahanKenway/v2ray-collector-pro/main/configs/vmess_sub.txt) |
-| **Shadowsocks** | [Raw](https://raw.githubusercontent.com/MahanKenway/v2ray-collector-pro/main/configs/ss.txt) | [Sub](https://raw.githubusercontent.com/MahanKenway/v2ray-collector-pro/main/configs/ss_sub.txt) |
-| **Trojan** | [Raw](https://raw.githubusercontent.com/MahanKenway/v2ray-collector-pro/main/configs/trojan.txt) | [Sub](https://raw.githubusercontent.com/MahanKenway/v2ray-collector-pro/main/configs/trojan_sub.txt) |
+| **Shadowsocks** | [Raw](https://raw.githubusercontent.com/MahanKenway/v2ray-collector-pro/main/configs/ss.txt) | [Sub](https://raw.githubusercontent.com/MahanKenway/v2ray-collector-pro/main/configs/ss| **Trojan** | [Raw](https://raw.githubusercontent.com/MahanKenway/v2ray-collector-pro/main/configs/trojan.txt) | [Sub](https://raw.githubusercontent.com/MahanKenway/v2ray-collector-pro/main/configs/trojan_sub.txt) |
+
+### 🤝 Contributing
+Contributions are welcome! If you have a new source for V2Ray configs or want to improve the collector script:
+1. Fork the Project.
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`).
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`).
+4. Push to the Branch (`git push origin feature/AmazingFeature`).
+5. Open a Pull Request.
 
 ---
 
@@ -47,6 +54,14 @@ A professional and automated V2Ray configuration collector. This project automat
 | **VMESS** | [Raw](https://raw.githubusercontent.com/MahanKenway/v2ray-collector-pro/main/configs/vmess.txt) | [Sub](https://raw.githubusercontent.com/MahanKenway/v2ray-collector-pro/main/configs/vmess_sub.txt) |
 | **Shadowsocks** | [Raw](https://raw.githubusercontent.com/MahanKenway/v2ray-collector-pro/main/configs/ss.txt) | [Sub](https://raw.githubusercontent.com/MahanKenway/v2ray-collector-pro/main/configs/ss_sub.txt) |
 | **Trojan** | [Raw](https://raw.githubusercontent.com/MahanKenway/v2ray-collector-pro/main/configs/trojan.txt) | [Sub](https://raw.githubusercontent.com/MahanKenway/v2ray-collector-pro/main/configs/trojan_sub.txt) |
+
+### 🤝 مشارکت در پروژه
+ما از مشارکت‌های شما استقبال می‌کنیم! اگر منبع جدیدی برای کانفیگ‌ها دارید یا می‌خواهید اسکریپت را بهبود دهید:
+1. پروژه را Fork کنید.
+2. یک Branch برای ویژگی جدید بسازید (`git checkout -b feature/AmazingFeature`).
+3. تغییرات خود را Commit کنید (`git commit -m 'Add some AmazingFeature'`).
+4. به Branch خود Push کنید (`git push origin feature/AmazingFeature`).
+5. یک Pull Request باز کنید.
 
 ---
 *Created by Manus AI for MahanKenway*
